@@ -12,13 +12,13 @@ let listaOrdenada = document.querySelector('ol')
 
 // Adicionando três itens simples na lista não ordenada
 listaNaoOrdenada.innerHTML = `
-  <li>HTML</li>
-  <li>CSS</li>
+  <li>ALO Brasil</li>
+  <li>Visite Ilha do MEl PR</li>
   <li>JavaScript</li>
 `
 // Adicionando três itens com links na lista ordenada
 listaOrdenada.innerHTML = `
-  <li><a href="https://about.meta.com/">Meta</a></li>
-  <li><a href="https://www.aws.com">AWS</a></li>
+  <li><a href="https://ge.globo.com/futebol/times/sao-paulo/">SPFC</a></li>
+  <li><a href="https://www.youtube.com/watch?v=EKyA3x_yh9A">DON'T tread on ME </a></li>
   <li><a href="https://www.google.com">Google</a></li>
 `
